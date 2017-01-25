@@ -25,7 +25,7 @@ SECRET_KEY = 'typak22+0zb^6x*2=i6evh%#pk+03g_)0g9pn%8&sfs6!2hosu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
