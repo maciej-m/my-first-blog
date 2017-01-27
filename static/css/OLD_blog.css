@@ -1,3 +1,12 @@
+h1 a {
+    color: black;
+    font-family: 'Muli';
+}
+
+body {
+    padding-left: 15px;
+}
+
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
@@ -15,7 +24,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Gothic', cursive;
 }
 
 .date {
